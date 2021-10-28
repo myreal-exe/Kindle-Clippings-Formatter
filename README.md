@@ -9,6 +9,6 @@ USAGE:
 
     a) The script will create a "{book_title}.txt" file for every book mentioned in clips.txt file
 
-    b) Each "{book_title.txt}" file will contain all clippings of that book removing useless data such as the date of the clipping and chain them together with a blank new line between each other
+    b) Each "{book_title.txt}" file will contain all clippings of that book removing useless data such as the date of the clipping and then chain them together with a blank new line between each other
 
     c) Storing all of these files in a "./clippings" output folder
