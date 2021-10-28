@@ -7,7 +7,7 @@ USAGE:
 3) Run the script (Python 3.x - no dependencies)
 4) The output will be formatted as follows:
 
-    a) The script will create a "{book_title}.txt" file for every book title
+    a) The script will create a "{book_title}.txt" file for every book mentioned in clips.txt file
 
     b) Each "{book_title.txt}" file will contain each clipping for that book removing useless data such as the date of the clipping and chain them together with a blank new line between each other
 
